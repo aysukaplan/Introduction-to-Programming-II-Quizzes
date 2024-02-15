@@ -18,3 +18,17 @@ This repository contains five quizzes completed for the Introduction to Programm
 
 5. **Quiz 5: Data Structures**
    - Focuses on the implementation of Java collections Stack and Queue.
+   - 
+## Instructions for Running Assignments
+
+Each quiz is organized in its respective directory. To run a quiz:
+
+1. Clone this repository to your local machine:
+   
+   ```git clone https://github.com/aysu-kaplan/Introduction-to-Programming-II-Quizzes.git```
+   
+2. Navigate to the specific quiz directory:
+   
+   ```cd Introduction-to-Programming-II-Quizzes/Quiz1```
+
+3. Follow the instructions provided in the quiz pdf to execute the Java code.
